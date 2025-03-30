@@ -4,42 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>HCHQ — GitHub Repository</title>
-  <style>
-    body {
-      font-family: "Segoe UI", sans-serif;
-      background-color: #fafafa;
-      color: #333;
-      padding: 2rem;
-      max-width: 900px;
-      margin: auto;
-    }
-    h1, h2 {
-      color: #b30000;
-    }
-    code {
-      background-color: #eee;
-      padding: 0.1em 0.4em;
-      border-radius: 4px;
-    }
-    ul {
-      line-height: 1.8;
-    }
-    blockquote {
-      margin: 1.5em 0;
-      padding: 1em;
-      background-color: #f4f4f4;
-      border-left: 6px solid #b30000;
-      font-style: italic;
-    }
-    footer {
-      margin-top: 3rem;
-      font-size: 0.9rem;
-      color: #666;
-      border-top: 1px solid #ddd;
-      padding-top: 1rem;
-      text-align: center;
-    }
-  </style>
+
 </head>
 <body>
   <h1>💻 HCHQ — Official GitHub Repository</h1>
