@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
 
 
 </head>
@@ -25,15 +24,14 @@
 
   <h2>📁 Repository Structure</h2>
   <ul>
-    <li><code>projects/</code> – Individual creative or research-based coding projects.</li>
-    <li><code>assets/</code> – Shared design elements, logos, fonts, and media files.</li>
-    <li><code>docs/</code> – Documentation, writeups, diagrams, and specs.</li>
-    <li><code>archive/</code> – Old code and experiments, preserved for posterity (and memes).</li>
+    <li><code>projects/</code> – IMain Code</li>
+    <li><code>assets/</code> – Logo</li>
+    <li><code>archive/</code> – Past attempts</li>
   </ul>
 
   <h2>🙏 Acknowledgements</h2>
   <blockquote>
-    In this noble journey of digital discovery, we stand on the shoulders of giants — the open-source community, teachers, Stack Overflow strangers, and friends who peer-reviewed our most cursed commits.
+    In this humble voyage of digital craft, we give thanks to ChatGPT, ever at our call, and to our wise mentor, Ms. Syamira, who didst guide us through our most wayward lines of code.
   </blockquote>
 
   <h2>📜 License & Copyright</h2>
@@ -49,9 +47,6 @@
   <p>
     <em>No individual, entity, or AI — not even Zhou Yan — may lay claim to this body of work without the explicit approval of at least two of the three founding developers, in accordance with the unwritten laws of keyboard democracy.</em>
   </p>
-
-  <h2>✨ Motto</h2>
-  <p><em>“Code with heart. Compile with soul.”</em></p>
 
   <footer>
     Written by ChatGPT, Refined by Humans • HCHQ 2025 • Hwa Chong Institution
