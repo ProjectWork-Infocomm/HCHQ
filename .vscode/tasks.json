@@ -6,9 +6,15 @@
             "type": "shell",
             "command": "g++",
             "args": [
-                "main.cpp",
+                "-std=c++17",
+                "${workspaceFolder}/cpp/main.cpp",
                 "-o",
-                "game.exe",
+                "${workspaceFolder}/game.exe",
+                // SFML include directory
+                "-IC:/Users/Eusto/OneDrive/Documents/GitHub/HCHQ/SFML-3.0-windows-vc17-64-bit/include",
+                // SFML library directory
+                "-LC:/Users/Eusto/OneDrive/Documents/GitHub/HCHQ/SFML-3.0-windows-vc17-64-bit/lib",
+                // Link SFML libraries
                 "-lsfml-graphics",
                 "-lsfml-window",
                 "-lsfml-system"
@@ -17,9 +23,7 @@
                 "kind": "build",
                 "isDefault": true
             },
-            "problemMatcher": [
-                "$gcc"
-            ]
+            "problemMatcher": "$gcc"
         }
     ]
 }

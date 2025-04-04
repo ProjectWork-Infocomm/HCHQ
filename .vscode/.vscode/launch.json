@@ -1,29 +1,26 @@
 {
-    "version": "2.0.0",
-    "tasks": [
-        {
-            "label": "build",
-            "type": "shell",
-            "command": "g++",
-            "args": [
-                "-std=c++17",
-                "main.cpp",
-                "-o",
-                "game.exe",
-                // SFML include directory
-                "-IC:/Users/Eusto/OneDrive/Documents/GitHub/HCHQ/SFML-3.0.0-windows-vc17-64-bit/include",
-                // SFML library directory
-                "-LC:/Users/Eusto/OneDrive/Documents/GitHub/HCHQ/SFML-3.0.0-windows-vc17-64-bit/lib",
-                // Link SFML libraries
-                "-lsfml-graphics",
-                "-lsfml-window",
-                "-lsfml-system"
-            ],
-            "group": {
-                "kind": "build",
-                "isDefault": true
-            },
-            "problemMatcher": "$gcc"
-        }
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Debug Game",
+        "type": "cppdbg",
+        "request": "launch",
+        // This must point to your compiled exe in the HCHQ folder
+        "program": "${workspaceFolder}/game.exe",
+        "args": [],
+        "stopAtEntry": false,
+        "cwd": "${workspaceFolder}",
+        "environment": [],
+        "externalConsole": true,
+        "MIMode": "gdb",
+        "setupCommands": [
+          {
+            "description": "Enable pretty-printing for gdb",
+            "text": "-enable-pretty-printing",
+            "ignoreFailures": true
+          }
+        ]
+      }
     ]
-}
+  }
+  
