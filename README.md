@@ -24,7 +24,7 @@
 
   <h2>📁 Repository Structure</h2>
   <ul>
-    <li><code>Code/</code> – IMain Code</li>
+    <li><code>Code/</code> – Main Code</li>
     <li><code>assets/</code> – Logo</li>
     <li><code>archive/</code> – Past attempts</li>
   </ul>
