@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>HCHQ GitHub README</title>
+
 </head>
 <body>
   <h1>💻 HCHQ — Official GitHub Repository</h1>
