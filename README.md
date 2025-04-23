@@ -35,10 +35,10 @@
 
   <h2>🎥 Video Credit</h2>
   <p>
-    Special thanks to <strong>Jack Herrington</strong> for his insightful video tutorial, which inspired parts of our repository structure and approach.
+    Special thanks to <strong>Peyton Burnham</strong> for his insightful video tutorial, which allowed us to deeply understand GamerMaker Studio 2
     Watch the video here:
     <a href="https://www.youtube.com/watch?v=KnfQo32ME5g&list=PL14Yj-e2sgzySnBUlQLhq2VJXRLi66gFf" target="_blank">
-      GitHub Readme — How to Write a Killer README
+      How to Make an RPG in GameMaker Studio 2! (Part 1: The Basics with Player Movement and Collision)
     </a>.
   </p>
 
