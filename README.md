@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
-
-
+  <meta charset="UTF-8">
+  <title>HCHQ GitHub README</title>
 </head>
 <body>
   <h1>💻 HCHQ — Official GitHub Repository</h1>
@@ -33,6 +32,15 @@
   <blockquote>
     In this humble voyage of digital craft, we give thanks to ChatGPT, ever at our call, and to our wise mentor, Ms. Syamira, who didst guide us through our most wayward lines of code.
   </blockquote>
+
+  <h2>🎥 Video Credit</h2>
+  <p>
+    Special thanks to <strong>Jack Herrington</strong> for his insightful video tutorial, which inspired parts of our repository structure and approach.
+    Watch the video here:
+    <a href="https://www.youtube.com/watch?v=KnfQo32ME5g&list=PL14Yj-e2sgzySnBUlQLhq2VJXRLi66gFf" target="_blank">
+      GitHub Readme — How to Write a Killer README
+    </a>.
+  </p>
 
   <h2>📜 License & Copyright</h2>
   <p>
