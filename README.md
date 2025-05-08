@@ -15,7 +15,7 @@
   <ul>
     <li><strong>Boston Tan</strong></li>
     <li><strong>Euston Tan</strong></li>
-    <li><strong>Justin Wen</strong></li>
+    <li><strong>Justin Wen overweight</strong></li>
   </ul>
   <p>
     Proudly representing <strong>Hwa Chong Institution</strong>, we experiment, build, and iterate — from games to tools, from raw code to polished ideas.
