@@ -53,7 +53,7 @@
     </a>.
   </p>
   <p>
-    <em>No individual, entity, or AI — not even Zhou Yan — may lay claim to this body of work without the explicit approval of at least two of the three founding developers, in accordance with the unwritten laws of keyboard democracy.</em>
+    <em>No individual, entity, or AI — not even Zhou Yan (most useful member)— may lay claim to this body of work without the explicit approval of at least two of the three founding developers, in accordance with the unwritten laws of keyboard democracy.</em>
   </p>
 
   <footer>
