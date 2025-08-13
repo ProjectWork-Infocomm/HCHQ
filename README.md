@@ -24,8 +24,8 @@
   <h2>📁 Repository Structure</h2>
   <ul>
     <li><code>Code/</code> – Main Code</li>
-    <li><code>assets/</code> – Logo</li>
-    <li><code>archive/</code> – Past attempts</li>
+    <li><code>assets/</code> – Logo and References</li>
+    <li><code>archive/</code> – Includes folder " Tutorial Copy" which is where we learnt how to use GMS using tutorials</li>
   </ul>
 
   <h2>🙏 Acknowledgements</h2>
