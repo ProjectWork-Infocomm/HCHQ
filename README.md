@@ -44,7 +44,7 @@
 
   <h2>📜 License & Copyright</h2>
   <p>
-    &copy; 2025 Boston Tan, Euston Tan, and Justin Wen. All rights reserved, unless otherwise stated.
+    &copy; 2026 Boston Tan, Euston Tan, and Justin Wen. All rights reserved, unless otherwise stated.
   </p>
   <p>
     This repository is distributed under the 
