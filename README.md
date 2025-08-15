@@ -32,6 +32,9 @@
   <blockquote>
     In this humble voyage of digital craft, we give thanks to ChatGPT, ever at our call, and to our wise mentor, Ms. Syamira, who didst guide us through our most wayward lines of code.
   </blockquote>
+<p>
+Note above text was written in Early Modern English in the Shakespeare-era style purely for fun
+</p>
 
   <h2>🎥 Video Credit</h2>
   <p>
